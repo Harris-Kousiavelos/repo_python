@@ -8,7 +8,7 @@ j=3
 words=[]
 chars=[]
 
-  while (ascii!="") :
+  for l in len(asciiv)
 
       if chr(int(ascii[i:j]))!=" " :
 
